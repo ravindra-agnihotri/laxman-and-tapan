@@ -1,7 +1,4 @@
 package basics;
-
-import sun.awt.HKSCS;
-
 public class Datatypes {
 
 
