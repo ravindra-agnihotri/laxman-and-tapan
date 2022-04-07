@@ -6,13 +6,13 @@ public class LinkedLogin {
 
 
     public static void login(String username, String password){
-        //hgjkkkljk
+        //hgjkkkljkasda
 
     }
 
 
     public static void login(int googleToken){
-
+        System.out.println("Login with google token");
     }
 
     public static String login(String apple){
