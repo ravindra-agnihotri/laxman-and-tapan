@@ -12,7 +12,7 @@ public abstract class LaxmanAndTapan {
 
     public abstract void bugAnalysis();
 
-    public abstract void testing();
+    public  abstract void testing();
 
     public static void main(String[] args) {
 

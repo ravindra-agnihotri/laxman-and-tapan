@@ -1,0 +1,7 @@
+Single inheritance  parent --> child
+
+multi level inheritance parent <-- cild <-- childofchild <-- so on
+
+multiple in   =  does not support in java because it confuses compiler
+
+hybrid inhe =
